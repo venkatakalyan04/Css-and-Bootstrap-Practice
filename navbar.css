@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+}
+
+
+.Navbar-lists{
+    background: #0b090a;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+   
+}
+
+.Nav-list{
+    margin: 0px;
+    display: flex;
+    text-transform: uppercase;
+    font-size: 25px;
+    justify-content: right;
+
+}
+
+
+.Navbar-li{
+    padding: 15px;
+    list-style-type: none;
+    float: right;
+    
+    
+}
+
+.Navbar-li a{
+  text-decoration: none;
+  color: white; 
+  justify-content: right;
+  font-family: monospace;
+  
+}
+
+
+
